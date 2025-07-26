@@ -17,7 +17,7 @@ Please record a 3–5 minute walkthrough showing:
 
 - **00:00–01:42** — Introduction  
 - **01:43–03:29** — Project Architecture  
-- **03:30–04:54** — End-to-end Demo
+- **03:30–04:54** — End-to-end Demo ([Watch with better audio](https://youtu.be/9aVkAC7eE-U))
     - **03:30-03:36** - Video Uploading
     - **03:37-03:42** - Summary Generation
     - **03:43-03:54** - Script Generation & Translation
